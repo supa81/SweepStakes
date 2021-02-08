@@ -8,5 +8,10 @@ namespace SweepStakes
 {
     class MarketingFirm
     {
+        //MV
+
+        //CTOR
+
+        //MM
     }
 }

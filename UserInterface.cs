@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace SweepStakes
 {
-    class UserInterface
+    public static class UserInterface
     {
+
+        // USER PROMPT 
+      
+            
+
+
+
     }
 }

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SweepStakes
+namespace SweepStakes 
 {
-    class SweepstakesQueueManager
+    class SweepstakesQueueManager : ISweepStakesManger
     {
+        
     }
 }
