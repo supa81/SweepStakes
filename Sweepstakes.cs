@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SweepStakes
 {
-   public  class Sweepstakes
+   public class Sweepstakes
     {
         //MV
         public string name;
@@ -14,7 +14,7 @@ namespace SweepStakes
 
 
         //ctor 
-         Sweepstakes(string name)
+        public Sweepstakes(string name)
         {
             contestants = new Dictionary<int, Contestant>();
             this.name = name;       
