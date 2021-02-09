@@ -9,10 +9,11 @@ namespace SweepStakes
     class Contestant
     {
         //MEMBER VARIABLES 
-        string firstName;
-        string lastName;
-        string email;
-        int regerstrationNumber;
+        
+        public string firstName;
+        public string lastName;
+        public string email;
+        public int regerstrationNumber;
         //SPAWN WITH 
         public Contestant(string firstName, string lastName, string email, int regerstrationNumber)
         {
